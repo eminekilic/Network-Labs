@@ -44,4 +44,4 @@ Here is a list of the labs currently in this repository.
 
 ## ✉️ Connect with Me
 
-* **LinkedIn:** `[LinkedIn Profil Adınız](https://linkedin.com/in/kullaniciadiniz)` *(Parantez içini kendi LinkedIn profilinizle güncelleyin)*
+* **LinkedIn:** `[Emine Kılıç](https://www.linkedin.com/in/emine-kilic/)` 
