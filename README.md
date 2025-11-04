@@ -36,7 +36,7 @@ Here is a list of the labs currently in this repository.
 
 ### 3. DHCP Server Configuration on Router
 
-* **File:** `[YENI_DHCP_DOSYANIZIN_ADI.pkt]`
+* **File:** `[Lab_3_DHCP_Server.pkt]`
 * **Description:** A lab demonstrating how to configure a Cisco router to act as a DHCP server for a local LAN.
 * **Key Concepts:**
     * `ip dhcp excluded-address` (Excluded address range)
@@ -44,6 +44,17 @@ Here is a list of the labs currently in this repository.
     * `default-router` (Assigning the default gateway)
     * `dns-server` (Assigning a DNS server)
     * Verifying DHCP on the client PC
+
+### 4. Inter-VLAN Routing & DHCP Relay
+
+* **File:** `[Lab_4_DHCP_Relay.pkt]`
+* **Description:** A lab demonstrating how to use a centralized router as a DHCP server for multiple VLANs, with a Multilayer Switch acting as the gateway.
+* **Key Concepts:**
+    * `DHCP Server` (on Router)
+    * `Inter-VLAN Routing` (on Multilayer Switch with SVIs)
+    * `ip helper-address` (DHCP Relay Agent)
+    * `ip dhcp pool` (Multiple pools for different subnets)
+    * `ip dhcp excluded-address`
 
 ---
 
