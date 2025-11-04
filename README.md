@@ -26,13 +26,24 @@ Here is a list of the labs currently in this repository.
 
 ### 2. Subnetting (3 Subnets)
 
-* **File:** `[Subnetting_Lab_2.pkt]` 
+* **File:** `Subnetting_Lab_2.pkt`
 * **Description:** This scenario involves subnetting a `/24` network (192.168.1.0) into three `/26` subnets.
 * **Key Concepts:**
     * Subnetting (/26 mask)
     * Multi-Router Topology
     * IP configuration for LANs and a point-to-point (Router-to-Router) link.
     * End-to-end connectivity test.
+
+### 3. DHCP Server Configuration on Router
+
+* **File:** `[YENI_DHCP_DOSYANIZIN_ADI.pkt]`
+* **Description:** A lab demonstrating how to configure a Cisco router to act as a DHCP server for a local LAN.
+* **Key Concepts:**
+    * `ip dhcp excluded-address` (Excluded address range)
+    * `ip dhcp pool [name]` (Creating a DHCP pool)
+    * `default-router` (Assigning the default gateway)
+    * `dns-server` (Assigning a DNS server)
+    * Verifying DHCP on the client PC
 
 ---
 
@@ -44,4 +55,4 @@ Here is a list of the labs currently in this repository.
 
 ## ✉️ Connect with Me
 
-* **LinkedIn:** `[Emine Kılıç](https://www.linkedin.com/in/emine-kilic/)` 
+* **LinkedIn:** `[Emine Kılıç](https://www.linkedin.com/in/emine-kilic/)`
