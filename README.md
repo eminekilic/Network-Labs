@@ -56,6 +56,18 @@ Here is a list of the labs currently in this repository.
     * `ip dhcp pool` (Multiple pools for different subnets)
     * `ip dhcp excluded-address`
 
+### 5. Inter-VLAN Routing (Router on a Stick)
+
+* **File:** `[Lab_5_Router_on_a_Stick.pkt]`
+* **Description:** A foundational lab that configures Inter-VLAN routing using the "Router on a Stick" model.
+* **Key Concepts:**
+    * `VLANs` (Creating VLANs on a switch)
+    * `Switchport Access Mode` (Assigning ports to VLANs)
+    * `Switchport Mode Trunk` (Configuring the trunk link)
+    * `Router Sub-interfaces` (e.g., `interface g0/0.10`)
+    * `encapsulation dot1q [vlan-id]`
+    * End-to-end connectivity between different VLANs.
+
 ---
 
 ## 📖 How to Use
