@@ -67,6 +67,18 @@ Here is a list of the labs currently in this repository.
     * `Router Sub-interfaces` (e.g., `interface g0/0.10`)
     * `encapsulation dot1q [vlan-id]`
     * End-to-end connectivity between different VLANs.
+      
+### 6. Inter-VLAN Routing with Multilayer Switch
+
+* **File:** `[YOUR_NEW_FILE_NAME.pkt]`
+* **Description:** A lab demonstrating the modern approach to Inter-VLAN routing using a Layer 3 Multilayer Switch and Switched Virtual Interfaces (SVIs).
+* **Key Concepts:**
+    * `Inter-VLAN Routing` (on L3 Switch)
+    * `ip routing` (Enabling L3 capabilities)
+    * `interface Vlan [vlan-id]` (Creating Switched Virtual Interfaces - SVIs)
+    * `Trunking` (between L2 Access and L3 Core)
+    * `Switchport Access Mode`
+    * End-to-end connectivity test.
 
 ---
 
